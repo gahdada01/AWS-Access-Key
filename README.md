@@ -7,3 +7,7 @@ sudo apt install awscli
 aws configure
 
 Note: To get the access key: https://www.youtube.com/watch?v=jl1R3UWmJJY
+
+Configure in MacOS :
+
+Go to [How to install AWS cli in MacOS](https://www.clickhost.com/how-to-install-aws-cli-on-a-mac-in-3-easy-steps/)
